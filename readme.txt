@@ -12,3 +12,9 @@ Creating a new branch is quick & simple
 
 #test branch content
 Creating new content for test branch
+
+#Git is free software
+this is a bug
+changed:
+#Git is a free software
+
