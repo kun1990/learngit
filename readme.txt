@@ -7,5 +7,8 @@ Git tracks changes
 #dev branch content
 Creating a new branch is quick
 
+<<<<<<< HEAD
 #master branch content
 Creating a new branch is quick & simple
+=======
+>>>>>>> feature1
