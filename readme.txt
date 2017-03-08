@@ -6,3 +6,6 @@ Git tracks changes
 
 #dev branch content
 Creating a new branch is quick
+
+#feature1 branch content
+Creating a new branch is quick AND simple.
