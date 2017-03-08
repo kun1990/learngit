@@ -18,3 +18,5 @@ this is a bug
 changed:
 #Git is a free software
 
+#stash fundation
+
